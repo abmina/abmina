@@ -1,9 +1,14 @@
-# Hi, I'm Theo (@abmina) 👋
-
-### 🛠️ Lead Developer of [Dark Matter IDE](https://github.com/abmina/dark-matter-ide)
-I build tools for the "Local-First" AI revolution. My focus is on creating high-performance, privacy-conscious development environments that treat local LLMs as first-class citizens.
+<div align="center">
+  <img src="https://raw.githubusercontent.com/abmina/dark-matter-ide/master/resources/darkmatter-1024.png" width="150" height="150" alt="Dark Matter Logo" />
+  <h1>Theo Mina (@abmina)</h1>
+  <p><b>Lead Developer of <a href="https://github.com/abmina/dark-matter-ide">Dark Matter IDE</a></b></p>
+  <img src="https://img.shields.io/badge/Status-Active%20Development-blueviolet?style=for-the-badge" alt="Status Badge" />
+</div>
 
 ---
+
+### 🛠️ The Vision
+I build tools for the "Local-First" AI revolution. My focus is on creating high-performance, privacy-conscious development environments that treat local LLMs as first-class citizens.
 
 ### 💻 Current Focus
 - 🌌 **Dark Matter IDE:** A VS Code fork gutted of cloud dependencies for "Airplane Mode" AI coding.
@@ -20,12 +25,15 @@ I build tools for the "Local-First" AI revolution. My focus is on creating high-
 
 ---
 
-### 📊 GitHub Stats
-![Theo's GitHub stats](https://github-readme-stats.vercel.app/api?username=abmina&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abmina&layout=compact&theme=dark)
+### 📊 Project Insights
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abmina&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="Theo's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abmina&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" alt="Top Langs" />
+</div>
 
 ---
 
-### 📫 Connect with me
+### 📫 Connect & Support
 - **Reddit:** [u/Illustrious-Chain778](https://www.reddit.com/user/Illustrious-Chain778/)
-- **GitHub Discussions:** [Join the Beta](https://github.com/abmina/dark-matter-ide/discussions/9)
+- **Join the Beta:** [Call for Testers #9](https://github.com/abmina/dark-matter-ide/discussions/9)
