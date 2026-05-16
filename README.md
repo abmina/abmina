@@ -1,5 +1,6 @@
 <div align="center">
- <img width="1024" height="508" alt="Dark Matter" src="https://github.com/user-attachments/assets/d9dc3d57-a5d0-45cf-a515-49b0dbcda26e" />
+ <img width="1168" height="784" alt="ocCXu" src="https://github.com/user-attachments/assets/48a527de-7b99-4b49-a2a0-5d76597dd4f4" />
+
   
   ### *Forging Dark Matter, The AI Editor That Runs Entirely On Your Machine*
   
