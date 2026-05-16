@@ -25,11 +25,13 @@ I build tools for the "Local-First" AI revolution. My focus is on creating high-
 
 ---
 
+---
+
 ### 📊 Project Insights
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abmina&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="Theo's GitHub stats" />
+  <img src="https://github-readme-stats.shion.dev/api?username=abmina&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="Theo's GitHub stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abmina&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" alt="Top Langs" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=abmina&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" alt="Top Langs" />
 </div>
 
 ---
