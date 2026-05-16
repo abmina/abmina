@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/abmina/dark-matter-ide/master/resources/darkmatter-1024.png" width="160" alt="Dark Matter Logo" />
+ <img width="1024" height="508" alt="Dark Matter" src="https://github.com/user-attachments/assets/d9dc3d57-a5d0-45cf-a515-49b0dbcda26e" />
   
   # Theo Mina
-  ### *The AI Editor That Runs Entirely On Your Machine*
+  ### *Forging Dark Matter, The AI Editor That Runs Entirely On Your Machine*
   
   [![Website](https://img.shields.io/badge/Official_Site-darkmatter--ide.com-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://darkmatter-ide.com)
   [![GitHub Stars](https://img.shields.io/github/stars/abmina/dark-matter-ide?style=for-the-badge&color=8B5CF6&logo=github)](https://github.com/abmina/dark-matter-ide)
